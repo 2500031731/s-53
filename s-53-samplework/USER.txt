@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>
+User Page
+</title>
+</head>
+<body>
+<h1>welcome to user dashboard</h>
+</body>
+</html>
